@@ -1,3 +1,6 @@
 [submodule "terraform"]
 	path = terraform
 	url = https://github.com/vgonzenbach/terraform-elt-composer.git
+[submodule "dev/composer-local-dev"]
+	path = dev/composer-local-dev
+	url = https://github.com/vgonzenbach/composer-local-dev.git
